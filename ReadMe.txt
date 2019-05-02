@@ -1,6 +1,6 @@
 
 
-How to use the BitTrex Plugin:
+How to use the BitMex Plugin:
 
 Add to Accounts.csv
 BitTrex,BitTrex,111111,111111,11111,AssetsFix,USD,1,1,BitTrex
